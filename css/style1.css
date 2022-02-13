@@ -1,0 +1,64 @@
+*{
+				text-align:center;
+				margin:0;
+}
+
+.uno{
+				font-size:20px;
+				color:white;
+				padding:150px 50px;
+				background-image:url("../img/rd.jpg");
+				background-repeat: no-repeat;
+				background-position:center;
+      background-size:cover;		
+}
+.unoa {
+				background-color:Black;
+				margin:10px;
+				opacity:0.8;
+}
+
+.dos{
+				text-align:center;
+				padding:100px 50px;
+				font-family:times new roman;
+				background-color:#137da1;
+				font-size:30px;		
+}
+
+.tres{
+				background-color:gray;
+				color:White;
+				font-size:40;
+				padding:50px 30px;
+}
+
+#pp, #sa, #mc, #sd{
+				font-size:25px;
+				color:white;
+				padding:150px 50px;
+				background-repeat: no-repeat;
+				background-position:center;
+      background-size:cover;		
+      border-top:3px solid gray;
+}
+
+#pp{
+				background-image:url("../img/pp.jpg");
+}
+
+#sa{
+				background-image:url("../img/sa.jpg");
+}
+
+#mc{
+				background-image:url("../img/mc.jpg");
+}
+
+#sd{
+				background-image:url("../img/sd.jpg");
+}
+
+.cinco{
+				border:3px dotted red;
+}
